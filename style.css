@@ -34,3 +34,20 @@ footer {
   text-align: center;
   padding: 10px;
 }
+.projeto {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-left: 5px solid #1f3a5f;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.projeto h2 {
+  margin-top: 0;
+}
+
+.projeto a {
+  color: #1f3a5f;
+  font-weight: bold;
+  text-decoration: none;
+}
