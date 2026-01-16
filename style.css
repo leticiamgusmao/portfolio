@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 :root {
-  --azul-escuro: #0f2a44;
-  --azul-medio: #1f4e79;
+  --azul-escuro: #004D40;   /* verde petróleo */
+  --azul-medio: #00695C;   /* verde complementar */
   --gelo: #f2f5f7;
   --branco: #ffffff;
-  --cinza-texto: #3a3a3a;
+  --cinza-texto: #2f3e3b;
 }
 
 * {
